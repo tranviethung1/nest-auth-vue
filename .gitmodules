@@ -1,0 +1,4 @@
+[submodule "api"]
+    path = api
+    url = git@github.com:tranviethung1/nest-auth-vue.git
+    ignore = dirty
