@@ -1,0 +1,4 @@
+[submodule "<api>"]
+    path = <api>
+    url = https://github.com/tranviethung1/nest-auth-vue.git/api.git
+    branch = new-submodule-branch
