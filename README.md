@@ -72,3 +72,15 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 "# nest-auth-vue" 
+
+
+## Không add được thư mục api hoặc web 
+
+```bash
+# remove cache api
+$ git rm --cached api
+
+#  remove cache web
+$ git rm --cached web
+
+```
