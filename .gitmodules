@@ -1,4 +1,0 @@
-[submodule "api"]
-    path = zen-coding-gedit3
-    url = git@github.com:tranviethung1/nest-auth-vue.git
-    ignore = dirty
